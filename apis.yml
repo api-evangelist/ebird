@@ -1,0 +1,32 @@
+aid: ebird
+name: eBird
+description: "Retrieve recent or notable birding observations within a region"
+url: https://documenter.getpostman.com/view/664302/S1ENwy59
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: eBird
+    description: "Retrieve recent or notable birding observations within a region"
+    humanURL: https://documenter.getpostman.com/view/664302/S1ENwy59
+    baseURL: https://documenter.getpostman.com/view/664302/S1ENwy59
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://documenter.getpostman.com/view/664302/S1ENwy59
+common:
+  - type: Website
+    url: https://documenter.getpostman.com/view/664302/S1ENwy59
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
