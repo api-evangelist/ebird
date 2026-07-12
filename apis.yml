@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://documenter.getpostman.com/view/664302/S1ENwy59
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ebird-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ebird-domain-security.yml
   - type: Website
     url: https://documenter.getpostman.com/view/664302/S1ENwy59
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://ebird.org/news
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
