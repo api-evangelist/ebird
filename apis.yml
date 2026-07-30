@@ -1,4 +1,16 @@
 aid: ebird
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ebird.png
 name: eBird
 description: "Retrieve recent or notable birding observations within a region"
 url: https://documenter.getpostman.com/view/664302/S1ENwy59
