@@ -51,7 +51,7 @@ common:
   - type: DomainSecurity
     url: security/ebird-domain-security.yml
   - type: Website
-    url: https://documenter.getpostman.com/view/664302/S1ENwy59
+    url: https://ebird.org
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
   - type: Blog
